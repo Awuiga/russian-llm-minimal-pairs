@@ -1,0 +1,4 @@
+group,value,total,parse_ok,detection_accuracy,correction_accuracy,false_positive_rate,false_negative_rate,exact_match,exact_match_all,exact_match_correct
+prompt_id,direct_zero_shot,960,960,0.936458,0.897917,0.068750,0.058333,0.897917,0.918750,0.939583
+prompt_id,minimal_edit,960,960,0.943750,0.897917,0.064583,0.047917,0.897917,0.927083,0.956250
+prompt_id,step_by_step,960,960,0.931250,0.879167,0.075000,0.062500,0.881250,0.916667,0.952083

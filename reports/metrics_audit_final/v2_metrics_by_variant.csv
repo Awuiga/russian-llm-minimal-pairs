@@ -1,0 +1,3 @@
+group,value,total,parse_ok,detection_accuracy,correction_accuracy,false_positive_rate,false_negative_rate,exact_match,exact_match_all,exact_match_correct
+variant,correct,468,468,0.891026,,0.108974,,,0.905983,0.905983
+variant,incorrect,468,468,0.931624,0.861111,,0.068376,0.861111,0.861111,

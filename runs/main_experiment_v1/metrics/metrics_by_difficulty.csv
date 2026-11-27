@@ -1,0 +1,2 @@
+﻿group,value,total,parse_ok,detection_accuracy,correction_accuracy,false_positive_rate,false_negative_rate,exact_match,exact_match_all,exact_match_correct
+difficulty,medium,288,288,0.916667,0.812500,0.166667,0.000000,0.812500,0.833333,0.854167

@@ -1,0 +1,12 @@
+{
+  "audit_ok": true,
+  "corpus_problems": [],
+  "metric_mismatches": [],
+  "versions": [
+    "v1",
+    "v2",
+    "v3",
+    "v4"
+  ],
+  "note": "Metrics were independently recalculated from normalized_results.csv and compared with metrics/*.csv."
+}

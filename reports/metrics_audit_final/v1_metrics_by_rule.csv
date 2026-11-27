@@ -1,0 +1,4 @@
+group,value,total,parse_ok,detection_accuracy,correction_accuracy,false_positive_rate,false_negative_rate,exact_match,exact_match_all,exact_match_correct
+rule_id,adjective_noun_agreement,108,108,0.990741,1.000000,0.018519,0.000000,1.000000,1.000000,1.000000
+rule_id,adverbial_participle_comma,108,108,0.787037,0.666667,0.425926,0.000000,0.666667,0.638889,0.611111
+rule_id,case_government,72,72,1.000000,0.750000,0.000000,0.000000,0.750000,0.875000,1.000000

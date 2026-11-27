@@ -1,0 +1,5 @@
+﻿version,group,value,total,parse_ok,detection_accuracy,correction_accuracy,false_positive_rate,false_negative_rate,exact_match,exact_match_all,exact_match_correct
+v1,all,all,288,288,0.916667,0.812500,0.166667,0.000000,0.812500,0.833333,0.854167
+v2,all,all,936,936,0.911325,0.861111,0.108974,0.068376,0.861111,0.883547,0.905983
+v3,all,all,1728,1728,0.936343,0.895833,0.075231,0.052083,0.895833,0.918981,0.942130
+v4,all,all,2880,2880,0.937153,0.891667,0.069444,0.056250,0.892361,0.920833,0.949306

@@ -1,0 +1,58 @@
+{
+  "run_id": "main_experiment_v4",
+  "input_path": "./final/final_items_v4.csv",
+  "output_dir": "scratch/main_experiment_v4",
+  "limit": 160,
+  "seed": 42,
+  "temperature": 0.0,
+  "max_output_tokens": 200,
+  "max_retries": 1,
+  "timeout": 60,
+  "sleep_between_requests": 1,
+  "providers": [
+    {
+      "name": "openai",
+      "models": [
+        "gpt-5.4-mini",
+        "gpt-5.4",
+        "gpt-5.5"
+      ],
+      "reasoning": "low",
+      "max_output_tokens": 500,
+      "prompts": [
+        "direct_zero_shot",
+        "minimal_edit",
+        "step_by_step"
+      ]
+    },
+    {
+      "name": "deepseek",
+      "models": [
+        "deepseek-v4-flash",
+        "deepseek-v4-pro"
+      ],
+      "max_output_tokens": 200,
+      "thinking": "disabled",
+      "prompts": [
+        "direct_zero_shot",
+        "minimal_edit",
+        "step_by_step"
+      ]
+    },
+    {
+      "name": "anthropic",
+      "models": [
+        "claude-haiku-4-5-20251001"
+      ],
+      "model_fallbacks": [
+        "claude-sonnet-4-6"
+      ],
+      "max_output_tokens": 200,
+      "prompts": [
+        "direct_zero_shot",
+        "minimal_edit",
+        "step_by_step"
+      ]
+    }
+  ]
+}

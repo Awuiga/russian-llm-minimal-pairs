@@ -1,0 +1,5 @@
+﻿version,items,pairs,correct_items,incorrect_items,gold_label_1,gold_label_0,expected_accept,expected_correct,balanced_50_50
+v1,16,8,8,8,8,8,8,8,True
+v2,52,26,26,26,26,26,26,26,True
+v3,96,48,48,48,48,48,48,48,True
+v4,160,80,80,80,80,80,80,80,True

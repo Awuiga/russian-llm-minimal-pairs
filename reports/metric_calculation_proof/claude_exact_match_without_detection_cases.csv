@@ -1,0 +1,2 @@
+﻿model,prompt_id,item_id,rule_id,sentence,has_error_pred,correction_pred,gold_correction,why_exact_but_not_correction_accuracy
+claude-haiku-4-5-20251001,step_by_step,case_government_0007_incorrect,case_government,Сначала молодой специалист доверял коллегу во время проекта.,false,Сначала молодой специалист доверял коллеге во время проекта.,Сначала молодой специалист доверял коллеге во время проекта.,"correction_pred equals gold_correction, but has_error_pred is not true"

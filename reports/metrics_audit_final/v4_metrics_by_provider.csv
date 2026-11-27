@@ -1,0 +1,4 @@
+group,value,total,parse_ok,detection_accuracy,correction_accuracy,false_positive_rate,false_negative_rate,exact_match,exact_match_all,exact_match_correct
+provider,anthropic,480,480,0.920833,0.779167,0.054167,0.104167,0.783333,0.864583,0.945833
+provider,deepseek,960,960,0.900000,0.845833,0.095833,0.104167,0.845833,0.903125,0.960417
+provider,openai,1440,1440,0.967361,0.959722,0.056944,0.008333,0.959722,0.951389,0.943056

@@ -1,0 +1,5 @@
+﻿version,total_results,correct_total,incorrect_total,TP_detected_error_on_incorrect,FN_missed_error_on_incorrect,TN_accepted_correct,FP_overcorrected_correct,unknown_detection,correction_success_incorrect_pred_true_and_exact,exact_incorrect,exact_correct,TPR_detection_on_incorrect,FNR_on_incorrect,TNR_on_correct,FPR_on_correct,TPR_plus_FNR,TNR_plus_FPR
+v1,288,144,144,144,0,120,24,0,117,117,123,1.000000,0.000000,0.833333,0.166667,1.000000,1.000000
+v2,936,468,468,436,32,417,51,0,403,403,424,0.931624,0.068376,0.891026,0.108974,1.000000,1.000000
+v3,1728,864,864,819,45,799,65,0,774,774,814,0.947917,0.052083,0.924769,0.075231,1.000000,1.000000
+v4,2880,1440,1440,1359,81,1340,100,0,1284,1285,1367,0.943750,0.056250,0.930556,0.069444,1.000000,1.000000

@@ -1,0 +1,5 @@
+﻿version,TPR_plus_FNR,TNR_plus_FPR,should_equal_1_when_no_unknowns,unknown_detection,unique_result_keys,result_rows,no_duplicate_keys
+v1,1.000000,1.000000,yes,0,288,288,True
+v2,1.000000,1.000000,yes,0,936,936,True
+v3,1.000000,1.000000,yes,0,1728,1728,True
+v4,1.000000,1.000000,yes,0,2880,2880,True
